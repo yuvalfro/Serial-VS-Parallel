@@ -10,7 +10,7 @@
 -author("Yuval Froman").
 
 %% API
--export([ring_parallel/2, ring_serial/2, mesh_parallel/3,mesh_serial/3]).
+-export([ring_parallel/2, ring_serial/2, mesh_parallel/3, mesh_serial/3]).
 
 %%---------------------------------- ring_parallel function - Create a circle of processes --------------------------------------------------------
 %% N - Number of processes
